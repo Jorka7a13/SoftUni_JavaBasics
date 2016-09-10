@@ -1,3 +1,0 @@
-Command for compiling: javac _06_SumTwoNumbers.java
-Command for executing: java _06_SumTwoNumbers 
-
